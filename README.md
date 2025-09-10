@@ -6,9 +6,9 @@ MConnect is a fully functional social networking platform developed for professi
 
 ## 👥Teammates
 
-@Pandazelf
-@hanious
-@plebaotrn
+- @Pandazelf
+- @hanious
+- @plebaotrn
 
 ### 📦Installed Packages
 
