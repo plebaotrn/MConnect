@@ -2,9 +2,15 @@
 
 ## MConnect
 
-A working prototype of a social media space tailored for professionals.
+MConnect is a fully functional social networking platform developed for professionals, utilizing vanilla JavaScript. It enables users to connect, share posts, and customize their profiles while ensuring secure authentication and data management.
 
-### Installed Packages
+## 👥Teammates
+
+@Pandazelf
+@hanious
+@plebaotrn
+
+### 📦Installed Packages
 
 - **express** (^5.1.0) – Serves the API and static files
 - **sqlite3** (^5.1.7) – Stores user data and posts
